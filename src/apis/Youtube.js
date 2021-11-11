@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Todo: Hämta API nykel
 
-const KEY = 'AIzaSyCNRfAKNOm7HDe0pmqn4JBkVQQHNcyEWQk';
+const KEY = ''; //Add your Youtube API key here
 
 export default axios.create({
     baseURL: 'https://www.googleapis.com/youtube/v3',
